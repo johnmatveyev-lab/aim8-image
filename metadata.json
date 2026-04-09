@@ -1,0 +1,7 @@
+{
+  "name": "Aim8 Image Studio ",
+  "description": "Your AI Mate for conversational creativity and Sora 2 video generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
